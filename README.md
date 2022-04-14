@@ -10,7 +10,7 @@ This program requires at least Java 11 to compile and run properly.
 ## Credits
 
 **Author:** Mo Balić - [mobalic](https://github.com/mobalic)
-This program is based on Car Sharing Platform project on JetBrains Academy
+This program is based on Car Sharing project on JetBrains Academy
 
 ## License
 
